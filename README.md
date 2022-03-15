@@ -1,5 +1,5 @@
-### Skills ⚡
-
+## Hi. I'm Carlos 🤟
+#### Software Engineering student at UNMSM. 
 <!--
 **CarlosVillena17/CarlosVillena17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  ```python
+public class Carlos {
+   String fullname="Carlos Villena Cabrejos";
+   String email="cvillenacabrejos@gmail.com";
+   String hobbie="competitive programming";
+   List<String> code= Arrays.asList("Java", "C++", "Python", "JavaScript");
+}
+
+  ```
+
+  ### Skills ⚡
   <div style="display: inline_block;"><br>
         <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
