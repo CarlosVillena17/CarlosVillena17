@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 public class Carlos {
 
     String fullname="Carlos Villena Cabrejos";
-    String email="cvillenacabrejos@gmail.com";
     String hobbie="competitive programming";
     List<String> code= Arrays.asList("Java", "C++", "Python", "JavaScript");
     
