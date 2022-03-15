@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   ```python
-public class Carlos {
+public class User {
 
     String fullname="Carlos Villena Cabrejos";
     String hobbie="competitive programming";
