@@ -27,9 +27,9 @@ public class User {
 
   ### Skills ⚡
   <div style="display: inline_block;"><br>
-        <img align="center" height="90" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
-        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/>
+        <img align="center" height="100" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
+        <img align="center" height="100" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+        <img align="center" height="100" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/>
         <img align="center" height="80" width="70" src="https://www.kolibers.com/images/amazon-cloud.png" />
         <img align="center" height="50" width="50" src="https://dataliticaec.com/wp-content/uploads/2023/04/power-bi-logo-datalitica-min.png" />
         <img align="center" height="70" width="70" src="https://analitica.digital/wp-content/uploads/2023/02/logo_lockup_analytics_icon_vertical_black_2x.png" />
