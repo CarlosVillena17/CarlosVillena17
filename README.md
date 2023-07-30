@@ -35,7 +35,7 @@ public class User {
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
         <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
         <img align="center" height="50" width="50"   src="https://dataliticaec.com/wp-content/uploads/2023/04/power-bi-logo-datalitica-min.png" />
-        <img align="center" height="70" width="60"   src="https://analitica.digital/wp-content/uploads/2023/02/logo_lockup_analytics_icon_vertical_black_2x.png" />
+        <img align="center" height="70" width="70"   src="https://analitica.digital/wp-content/uploads/2023/02/logo_lockup_analytics_icon_vertical_black_2x.png" />
    </div>
 
  
