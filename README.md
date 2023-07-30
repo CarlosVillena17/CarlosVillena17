@@ -35,9 +35,9 @@ public class User {
         <img align="center" height="70" width="70" src="https://analitica.digital/wp-content/uploads/2023/02/logo_lockup_analytics_icon_vertical_black_2x.png" />
         <img align="center" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
         <img align="center" height="90" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
-        <img align="center" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-        <img align="center" height="90" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+        <img align="center" height="100" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
+        <img align="center" height="100" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+        <img align="center" height="100" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
         <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
 
