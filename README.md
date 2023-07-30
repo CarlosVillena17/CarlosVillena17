@@ -19,7 +19,7 @@ class User:
     def __init__(self):
         self.fullname = "Carlos Villena Cabrejos"
         self.hobbie = "competitive programming"
-        self.code = ["Python", "GCP", "AWS", "Java"]
+        self.skills = ["Python", "GCP", "AWS", "Java", "MS Power BI", "SQL", "Web Scraping", "Google Analytics"]
 
   ```
 
