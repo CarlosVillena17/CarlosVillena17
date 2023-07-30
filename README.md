@@ -27,7 +27,7 @@ public class User {
 
   ### Skills ⚡
   <div style="display: inline_block;"><br>
-        <img align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img align="center" height="90" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
         <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
         <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img align="center" height="90" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
