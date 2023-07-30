@@ -33,7 +33,7 @@ public class User {
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-        <img align="center" height="90" width="100" src="https://www.kolibers.com/images/amazon-cloud.png" />
+        <img align="center" height="90" width="70" src="https://www.kolibers.com/images/amazon-cloud.png" />
         <img align="center" height="90" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
    </div>
