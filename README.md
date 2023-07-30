@@ -28,12 +28,12 @@ public class User {
   ### Skills ⚡
   <div style="display: inline_block;"><br>
         <img align="center" height="90" width="60" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img align="center" height="90" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
+        <img align="center" height="90" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/>
+        <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-        <img align="center" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img align="center" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
         <img align="center" height="90" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
    </div>
