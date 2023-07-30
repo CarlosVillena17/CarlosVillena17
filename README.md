@@ -19,7 +19,7 @@ public class User {
 
     String fullname="Carlos Villena Cabrejos";
     String hobbie="competitive programming";
-    List<String> code= Arrays.asList("Python", "GCP", "AWS", "Java);
+    List<String> code= Arrays.asList("Python", "GCP", "AWS", "Java");
     
 }
 
