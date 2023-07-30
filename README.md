@@ -38,7 +38,7 @@ public class User {
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
         <img align="center" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
         <img align="center" height="90" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-        <img align="center" height="60" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+        <img align="center" height="50" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
         <img align="center" height="90" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
 
    </div>
